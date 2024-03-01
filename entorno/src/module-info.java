@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module entorno {
-	requires junit;
-}

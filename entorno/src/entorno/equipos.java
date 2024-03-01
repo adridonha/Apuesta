@@ -1,5 +1,5 @@
 package entorno;
-
+//ACTUALIZADO 1 MARZO
 import java.util.Scanner;
 public class equipos {
 	private static final int TOTAL_PARTIDOS =4 ;
